@@ -1,0 +1,8 @@
+{
+  "name": "Epic Growth Machine",
+  "description": "AI-powered content generator for self-development, productivity, and habit building.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
