@@ -120,7 +120,7 @@ app.post("/api/generate", async (req, res) => {
     });
 
     const response = await ai.models.generateContent({
-      model: "gemini-3-flash-preview",
+      model: "gemini-3.5-flash",
       contents: topic,
       config: {
         systemInstruction: finalSystemInstruction,
